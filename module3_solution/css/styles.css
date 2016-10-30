@@ -1,0 +1,33 @@
+* {
+  box-sizing: border-box;
+}
+body {
+	font-size: 16px;
+	font-family: Helvetica, Arial, sans-serif;
+
+}
+
+#header-nav {
+	background-color:#bce0ba;
+	border-radius: 0;
+	border: 1px solid black;
+}
+
+a.navbar-brand {
+	font-size: 1.5em;
+}
+
+
+section {
+  border: 1px solid black;
+  position:relative;
+  background-color: #777777;
+  margin: 10px;
+  padding: 5px;
+  height: auto;
+}
+
+
+li {
+	border: 1px solid #859e83;
+}
